@@ -1,5 +1,5 @@
 # Adding config.py file.
-cindy_api_keys.py
+cindy_private.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
