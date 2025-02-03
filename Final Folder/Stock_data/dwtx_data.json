@@ -1,0 +1,731 @@
+[
+    {
+        "Date": "2024-10-01",
+        "Open": 0.1677,
+        "High": 0.1718,
+        "Low": 0.151,
+        "Close": 0.1558,
+        "Volume": 677687.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-02",
+        "Open": 0.1558,
+        "High": 0.1629,
+        "Low": 0.1558,
+        "Close": 0.1591,
+        "Volume": 144546.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-03",
+        "Open": 0.1578,
+        "High": 0.16,
+        "Low": 0.1538,
+        "Close": 0.1568,
+        "Volume": 309338.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-04",
+        "Open": 0.1605,
+        "High": 0.172,
+        "Low": 0.16,
+        "Close": 0.1692,
+        "Volume": 309383.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-07",
+        "Open": 0.1743,
+        "High": 0.1743,
+        "Low": 0.126,
+        "Close": 0.1379,
+        "Volume": 3940312.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-08",
+        "Open": 0.2003,
+        "High": 0.2068,
+        "Low": 0.143,
+        "Close": 0.155,
+        "Volume": 42675668.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-09",
+        "Open": 3.55,
+        "High": 3.77,
+        "Low": 2.52,
+        "Close": 2.83,
+        "Volume": 190293.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-10",
+        "Open": 2.79,
+        "High": 3.14,
+        "Low": 2.501,
+        "Close": 3.12,
+        "Volume": 154491.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-11",
+        "Open": 3.12,
+        "High": 5.29,
+        "Low": 2.8,
+        "Close": 4.1199,
+        "Volume": 1082358.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-14",
+        "Open": 3.75,
+        "High": 4.79,
+        "Low": 3.6201,
+        "Close": 4.49,
+        "Volume": 259479.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-15",
+        "Open": 4.38,
+        "High": 4.39,
+        "Low": 3.64,
+        "Close": 3.66,
+        "Volume": 101304.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-16",
+        "Open": 3.64,
+        "High": 4.9,
+        "Low": 3.5,
+        "Close": 4.43,
+        "Volume": 207711.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-17",
+        "Open": 3.97,
+        "High": 4.1993,
+        "Low": 3.85,
+        "Close": 4.01,
+        "Volume": 214674.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-18",
+        "Open": 4.0,
+        "High": 4.0,
+        "Low": 3.85,
+        "Close": 3.86,
+        "Volume": 119201.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-21",
+        "Open": 3.95,
+        "High": 4.0989,
+        "Low": 3.635,
+        "Close": 3.95,
+        "Volume": 109194.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-22",
+        "Open": 3.88,
+        "High": 4.2,
+        "Low": 3.75,
+        "Close": 4.11,
+        "Volume": 67651.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-23",
+        "Open": 3.832,
+        "High": 4.13,
+        "Low": 3.832,
+        "Close": 4.13,
+        "Volume": 13331.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-24",
+        "Open": 4.1,
+        "High": 4.762,
+        "Low": 3.962,
+        "Close": 4.7501,
+        "Volume": 79896.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-25",
+        "Open": 4.5,
+        "High": 5.15,
+        "Low": 4.5,
+        "Close": 4.99,
+        "Volume": 94507.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-28",
+        "Open": 4.76,
+        "High": 4.98,
+        "Low": 4.63,
+        "Close": 4.87,
+        "Volume": 34022.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-29",
+        "Open": 4.9,
+        "High": 4.9,
+        "Low": 4.4048,
+        "Close": 4.46,
+        "Volume": 31195.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-30",
+        "Open": 4.2,
+        "High": 4.51,
+        "Low": 4.05,
+        "Close": 4.16,
+        "Volume": 72777.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-10-31",
+        "Open": 4.23,
+        "High": 4.5,
+        "Low": 4.17,
+        "Close": 4.35,
+        "Volume": 22971.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-01",
+        "Open": 4.3,
+        "High": 4.51,
+        "Low": 4.28,
+        "Close": 4.37,
+        "Volume": 68155.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-04",
+        "Open": 4.24,
+        "High": 4.47,
+        "Low": 4.21,
+        "Close": 4.44,
+        "Volume": 22920.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-05",
+        "Open": 4.3,
+        "High": 4.72,
+        "Low": 4.19,
+        "Close": 4.62,
+        "Volume": 35454.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-06",
+        "Open": 4.36,
+        "High": 4.8226,
+        "Low": 4.201,
+        "Close": 4.45,
+        "Volume": 50129.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-07",
+        "Open": 4.32,
+        "High": 4.4827,
+        "Low": 4.3181,
+        "Close": 4.45,
+        "Volume": 13441.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-08",
+        "Open": 4.48,
+        "High": 4.7067,
+        "Low": 4.3,
+        "Close": 4.3,
+        "Volume": 29918.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-11",
+        "Open": 3.76,
+        "High": 4.0632,
+        "Low": 3.2,
+        "Close": 3.42,
+        "Volume": 109070.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-12",
+        "Open": 3.41,
+        "High": 3.76,
+        "Low": 3.32,
+        "Close": 3.46,
+        "Volume": 42915.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-13",
+        "Open": 3.29,
+        "High": 3.43,
+        "Low": 2.94,
+        "Close": 2.97,
+        "Volume": 56806.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-14",
+        "Open": 3.07,
+        "High": 3.23,
+        "Low": 2.97,
+        "Close": 3.2,
+        "Volume": 15972.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-15",
+        "Open": 3.31,
+        "High": 3.31,
+        "Low": 2.96,
+        "Close": 2.97,
+        "Volume": 16951.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-18",
+        "Open": 2.97,
+        "High": 3.07,
+        "Low": 1.62,
+        "Close": 1.85,
+        "Volume": 143845.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-19",
+        "Open": 1.77,
+        "High": 3.028,
+        "Low": 1.76,
+        "Close": 2.6,
+        "Volume": 637000.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-20",
+        "Open": 2.64,
+        "High": 2.7005,
+        "Low": 2.25,
+        "Close": 2.43,
+        "Volume": 75606.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-21",
+        "Open": 2.36,
+        "High": 2.85,
+        "Low": 2.09,
+        "Close": 2.71,
+        "Volume": 136025.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-22",
+        "Open": 2.6,
+        "High": 2.74,
+        "Low": 2.46,
+        "Close": 2.55,
+        "Volume": 103162.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-25",
+        "Open": 2.54,
+        "High": 2.8,
+        "Low": 2.46,
+        "Close": 2.68,
+        "Volume": 25348.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-26",
+        "Open": 2.6785,
+        "High": 2.82,
+        "Low": 2.55,
+        "Close": 2.645,
+        "Volume": 11119.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-27",
+        "Open": 2.73,
+        "High": 2.87,
+        "Low": 2.58,
+        "Close": 2.6,
+        "Volume": 43493.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-11-29",
+        "Open": 2.565,
+        "High": 2.565,
+        "Low": 2.4,
+        "Close": 2.4,
+        "Volume": 20192.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-02",
+        "Open": 2.36,
+        "High": 2.7009,
+        "Low": 2.36,
+        "Close": 2.43,
+        "Volume": 23818.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-03",
+        "Open": 2.48,
+        "High": 2.66,
+        "Low": 2.45,
+        "Close": 2.515,
+        "Volume": 23683.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-04",
+        "Open": 2.57,
+        "High": 2.57,
+        "Low": 2.39,
+        "Close": 2.5197,
+        "Volume": 9764.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-05",
+        "Open": 2.4,
+        "High": 2.5401,
+        "Low": 2.29,
+        "Close": 2.29,
+        "Volume": 55544.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-06",
+        "Open": 2.28,
+        "High": 2.5109,
+        "Low": 2.28,
+        "Close": 2.37,
+        "Volume": 13479.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-09",
+        "Open": 2.52,
+        "High": 2.75,
+        "Low": 2.3647,
+        "Close": 2.6,
+        "Volume": 26556.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-10",
+        "Open": 2.47,
+        "High": 2.74,
+        "Low": 2.47,
+        "Close": 2.74,
+        "Volume": 20653.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-11",
+        "Open": 2.67,
+        "High": 2.8259,
+        "Low": 2.65,
+        "Close": 2.67,
+        "Volume": 12537.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-12",
+        "Open": 2.67,
+        "High": 2.7,
+        "Low": 2.4,
+        "Close": 2.41,
+        "Volume": 14629.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-13",
+        "Open": 2.4518,
+        "High": 2.4986,
+        "Low": 2.32,
+        "Close": 2.36,
+        "Volume": 4932.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-16",
+        "Open": 2.58,
+        "High": 2.59,
+        "Low": 2.3344,
+        "Close": 2.45,
+        "Volume": 15018.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-17",
+        "Open": 2.34,
+        "High": 2.46,
+        "Low": 2.31,
+        "Close": 2.34,
+        "Volume": 5035.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-18",
+        "Open": 2.4,
+        "High": 2.6571,
+        "Low": 2.3066,
+        "Close": 2.42,
+        "Volume": 26658.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-19",
+        "Open": 2.4202,
+        "High": 2.4362,
+        "Low": 2.32,
+        "Close": 2.32,
+        "Volume": 10712.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-20",
+        "Open": 2.3,
+        "High": 2.63,
+        "Low": 2.3,
+        "Close": 2.34,
+        "Volume": 33400.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-23",
+        "Open": 2.83,
+        "High": 2.98,
+        "Low": 2.33,
+        "Close": 2.72,
+        "Volume": 84033.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-24",
+        "Open": 2.6,
+        "High": 2.88,
+        "Low": 2.5,
+        "Close": 2.87,
+        "Volume": 34873.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-26",
+        "Open": 2.97,
+        "High": 2.9999,
+        "Low": 2.62,
+        "Close": 2.62,
+        "Volume": 21598.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-27",
+        "Open": 2.77,
+        "High": 2.94,
+        "Low": 2.61,
+        "Close": 2.82,
+        "Volume": 33903.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-30",
+        "Open": 2.83,
+        "High": 2.961,
+        "Low": 2.7,
+        "Close": 2.85,
+        "Volume": 25530.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2024-12-31",
+        "Open": 2.82,
+        "High": 2.8605,
+        "Low": 2.48,
+        "Close": 2.49,
+        "Volume": 17057.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-02",
+        "Open": 2.6,
+        "High": 2.6,
+        "Low": 2.42,
+        "Close": 2.51,
+        "Volume": 22306.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-03",
+        "Open": 2.63,
+        "High": 2.75,
+        "Low": 2.48,
+        "Close": 2.61,
+        "Volume": 10887.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-06",
+        "Open": 2.78,
+        "High": 2.9294,
+        "Low": 2.52,
+        "Close": 2.57,
+        "Volume": 16554.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-07",
+        "Open": 2.86,
+        "High": 2.86,
+        "Low": 2.4882,
+        "Close": 2.65,
+        "Volume": 51639.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-08",
+        "Open": 2.56,
+        "High": 2.6772,
+        "Low": 2.38,
+        "Close": 2.38,
+        "Volume": 30596.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-10",
+        "Open": 2.38,
+        "High": 2.44,
+        "Low": 2.36,
+        "Close": 2.36,
+        "Volume": 6777.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-13",
+        "Open": 2.34,
+        "High": 2.44,
+        "Low": 2.29,
+        "Close": 2.32,
+        "Volume": 9688.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-14",
+        "Open": 2.31,
+        "High": 2.335,
+        "Low": 2.1,
+        "Close": 2.23,
+        "Volume": 45400.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-15",
+        "Open": 2.23,
+        "High": 2.2799,
+        "Low": 2.17,
+        "Close": 2.2,
+        "Volume": 8882.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-16",
+        "Open": 2.21,
+        "High": 2.2393,
+        "Low": 1.92,
+        "Close": 1.93,
+        "Volume": 48582.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-17",
+        "Open": 1.99,
+        "High": 1.99,
+        "Low": 1.87,
+        "Close": 1.87,
+        "Volume": 17395.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-21",
+        "Open": 2.53,
+        "High": 3.99,
+        "Low": 2.05,
+        "Close": 3.15,
+        "Volume": 24248596.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-22",
+        "Open": 2.76,
+        "High": 3.19,
+        "Low": 2.6,
+        "Close": 2.8,
+        "Volume": 654620.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-23",
+        "Open": 2.72,
+        "High": 29.28,
+        "Low": 2.72,
+        "Close": 13.35,
+        "Volume": 102194631.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-24",
+        "Open": 17.49,
+        "High": 19.33,
+        "Low": 10.1,
+        "Close": 11.4,
+        "Volume": 8162763.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-27",
+        "Open": 9.4,
+        "High": 21.78,
+        "Low": 9.4,
+        "Close": 17.4,
+        "Volume": 15118929.0,
+        "Symbol": "DWTX"
+    },
+    {
+        "Date": "2025-01-28",
+        "Open": 17.19,
+        "High": 20.0,
+        "Low": 14.5,
+        "Close": 15.06,
+        "Volume": 1860261.0,
+        "Symbol": "DWTX"
+    }
+]

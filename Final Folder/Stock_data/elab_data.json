@@ -1,0 +1,731 @@
+[
+    {
+        "Date": "2024-10-01",
+        "Open": 0.0841,
+        "High": 0.087,
+        "Low": 0.0781,
+        "Close": 0.0825,
+        "Volume": 13839017.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-02",
+        "Open": 0.0885,
+        "High": 0.0894,
+        "Low": 0.082,
+        "Close": 0.0852,
+        "Volume": 13700914.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-03",
+        "Open": 0.1571,
+        "High": 0.1796,
+        "Low": 0.1255,
+        "Close": 0.132,
+        "Volume": 514809347.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-04",
+        "Open": 0.1057,
+        "High": 0.1098,
+        "Low": 0.097,
+        "Close": 0.108,
+        "Volume": 39855689.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-07",
+        "Open": 0.1095,
+        "High": 0.1129,
+        "Low": 0.0925,
+        "Close": 0.1051,
+        "Volume": 21066243.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-08",
+        "Open": 0.1,
+        "High": 0.1138,
+        "Low": 0.099,
+        "Close": 0.1001,
+        "Volume": 15018499.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-09",
+        "Open": 0.0994,
+        "High": 0.102,
+        "Low": 0.0955,
+        "Close": 0.0998,
+        "Volume": 9500175.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-10",
+        "Open": 0.099,
+        "High": 0.1075,
+        "Low": 0.0966,
+        "Close": 0.0974,
+        "Volume": 7929981.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-11",
+        "Open": 0.1009,
+        "High": 0.101,
+        "Low": 0.093,
+        "Close": 0.0937,
+        "Volume": 5881992.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-14",
+        "Open": 0.0964,
+        "High": 0.0964,
+        "Low": 0.0916,
+        "Close": 0.0936,
+        "Volume": 3001736.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-15",
+        "Open": 0.09,
+        "High": 0.0946,
+        "Low": 0.0866,
+        "Close": 0.0891,
+        "Volume": 4972725.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-16",
+        "Open": 0.0877,
+        "High": 0.0889,
+        "Low": 0.0841,
+        "Close": 0.086,
+        "Volume": 3327852.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-17",
+        "Open": 0.087,
+        "High": 0.087,
+        "Low": 0.0832,
+        "Close": 0.087,
+        "Volume": 3583882.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-18",
+        "Open": 0.0854,
+        "High": 0.1036,
+        "Low": 0.084,
+        "Close": 0.0931,
+        "Volume": 14455837.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-21",
+        "Open": 0.0958,
+        "High": 0.135,
+        "Low": 0.091,
+        "Close": 0.099,
+        "Volume": 68952260.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-22",
+        "Open": 0.0938,
+        "High": 0.111,
+        "Low": 0.089,
+        "Close": 0.1035,
+        "Volume": 20921787.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-23",
+        "Open": 0.106,
+        "High": 0.1134,
+        "Low": 0.0951,
+        "Close": 0.1012,
+        "Volume": 11051061.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-24",
+        "Open": 0.0969,
+        "High": 0.1005,
+        "Low": 0.09,
+        "Close": 0.0922,
+        "Volume": 7050004.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-25",
+        "Open": 0.1637,
+        "High": 0.184,
+        "Low": 0.097,
+        "Close": 0.1013,
+        "Volume": 398700508.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-28",
+        "Open": 0.0939,
+        "High": 0.1043,
+        "Low": 0.091,
+        "Close": 0.099,
+        "Volume": 21297147.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-29",
+        "Open": 0.1,
+        "High": 0.105,
+        "Low": 0.0975,
+        "Close": 0.1,
+        "Volume": 11184956.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-30",
+        "Open": 0.0969,
+        "High": 0.0992,
+        "Low": 0.09,
+        "Close": 0.0929,
+        "Volume": 20458043.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-10-31",
+        "Open": 0.0644,
+        "High": 0.067,
+        "Low": 0.0582,
+        "Close": 0.059,
+        "Volume": 54285828.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-01",
+        "Open": 0.0385,
+        "High": 0.0399,
+        "Low": 0.0283,
+        "Close": 0.0289,
+        "Volume": 202280835.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-04",
+        "Open": 0.0234,
+        "High": 0.0244,
+        "Low": 0.019,
+        "Close": 0.0201,
+        "Volume": 290645011.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-05",
+        "Open": 0.0253,
+        "High": 0.026,
+        "Low": 0.0205,
+        "Close": 0.0214,
+        "Volume": 474568011.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-06",
+        "Open": 0.0202,
+        "High": 0.0218,
+        "Low": 0.0161,
+        "Close": 0.0178,
+        "Volume": 307858607.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-07",
+        "Open": 0.0181,
+        "High": 0.0216,
+        "Low": 0.0171,
+        "Close": 0.0179,
+        "Volume": 305346045.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-08",
+        "Open": 0.0208,
+        "High": 0.0208,
+        "Low": 0.0183,
+        "Close": 0.0189,
+        "Volume": 438787296.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-11",
+        "Open": 0.0206,
+        "High": 0.0208,
+        "Low": 0.0188,
+        "Close": 0.0193,
+        "Volume": 177116329.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-12",
+        "Open": 0.0183,
+        "High": 0.0195,
+        "Low": 0.0171,
+        "Close": 0.0188,
+        "Volume": 153625681.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-13",
+        "Open": 0.02,
+        "High": 0.0275,
+        "Low": 0.0191,
+        "Close": 0.0247,
+        "Volume": 541701514.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-14",
+        "Open": 0.0391,
+        "High": 0.0441,
+        "Low": 0.0241,
+        "Close": 0.0262,
+        "Volume": 1812128243.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-15",
+        "Open": 0.022,
+        "High": 0.026,
+        "Low": 0.0191,
+        "Close": 0.0221,
+        "Volume": 380030353.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-18",
+        "Open": 0.0231,
+        "High": 0.0245,
+        "Low": 0.0218,
+        "Close": 0.0229,
+        "Volume": 290231963.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-19",
+        "Open": 0.0219,
+        "High": 0.0224,
+        "Low": 0.0202,
+        "Close": 0.0213,
+        "Volume": 195423848.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-20",
+        "Open": 0.0209,
+        "High": 0.0221,
+        "Low": 0.0197,
+        "Close": 0.0214,
+        "Volume": 199363090.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-21",
+        "Open": 0.0209,
+        "High": 0.0209,
+        "Low": 0.02,
+        "Close": 0.0202,
+        "Volume": 256252917.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-22",
+        "Open": 0.0186,
+        "High": 0.021,
+        "Low": 0.0177,
+        "Close": 0.0201,
+        "Volume": 425375812.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-25",
+        "Open": 0.0173,
+        "High": 0.0173,
+        "Low": 0.0153,
+        "Close": 0.0159,
+        "Volume": 325292497.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-26",
+        "Open": 0.0146,
+        "High": 0.0148,
+        "Low": 0.0125,
+        "Close": 0.0125,
+        "Volume": 325823948.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-27",
+        "Open": 2.34,
+        "High": 2.6,
+        "Low": 2.045,
+        "Close": 2.41,
+        "Volume": 941346.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-11-29",
+        "Open": 2.38,
+        "High": 2.442,
+        "Low": 2.05,
+        "Close": 2.05,
+        "Volume": 746539.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-02",
+        "Open": 2.0,
+        "High": 2.25,
+        "Low": 1.74,
+        "Close": 2.1,
+        "Volume": 1012884.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-03",
+        "Open": 2.04,
+        "High": 2.15,
+        "Low": 1.94,
+        "Close": 1.99,
+        "Volume": 327220.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-04",
+        "Open": 2.09,
+        "High": 2.38,
+        "Low": 1.85,
+        "Close": 2.09,
+        "Volume": 3316239.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-05",
+        "Open": 1.99,
+        "High": 2.13,
+        "Low": 1.89,
+        "Close": 2.07,
+        "Volume": 705113.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-06",
+        "Open": 2.08,
+        "High": 2.1,
+        "Low": 1.9,
+        "Close": 2.04,
+        "Volume": 516844.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-09",
+        "Open": 2.06,
+        "High": 2.23,
+        "Low": 2.01,
+        "Close": 2.1,
+        "Volume": 578200.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-10",
+        "Open": 2.1,
+        "High": 2.83,
+        "Low": 2.1,
+        "Close": 2.57,
+        "Volume": 2343273.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-11",
+        "Open": 2.37,
+        "High": 2.55,
+        "Low": 2.1295,
+        "Close": 2.49,
+        "Volume": 656494.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-12",
+        "Open": 2.42,
+        "High": 2.4605,
+        "Low": 2.1801,
+        "Close": 2.23,
+        "Volume": 372265.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-13",
+        "Open": 2.23,
+        "High": 2.395,
+        "Low": 2.18,
+        "Close": 2.29,
+        "Volume": 379024.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-16",
+        "Open": 2.24,
+        "High": 2.24,
+        "Low": 2.01,
+        "Close": 2.06,
+        "Volume": 444017.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-17",
+        "Open": 2.01,
+        "High": 2.23,
+        "Low": 1.86,
+        "Close": 1.97,
+        "Volume": 416310.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-18",
+        "Open": 2.01,
+        "High": 2.21,
+        "Low": 2.0001,
+        "Close": 2.15,
+        "Volume": 2245915.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-19",
+        "Open": 3.19,
+        "High": 3.56,
+        "Low": 2.1601,
+        "Close": 2.35,
+        "Volume": 19975294.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-20",
+        "Open": 2.57,
+        "High": 2.7,
+        "Low": 2.08,
+        "Close": 2.56,
+        "Volume": 1263593.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-23",
+        "Open": 2.56,
+        "High": 2.66,
+        "Low": 2.3,
+        "Close": 2.61,
+        "Volume": 425615.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-24",
+        "Open": 2.58,
+        "High": 2.58,
+        "Low": 2.25,
+        "Close": 2.35,
+        "Volume": 380783.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-26",
+        "Open": 2.35,
+        "High": 2.49,
+        "Low": 2.1684,
+        "Close": 2.41,
+        "Volume": 438575.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-27",
+        "Open": 2.38,
+        "High": 2.4898,
+        "Low": 2.3062,
+        "Close": 2.44,
+        "Volume": 308759.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-30",
+        "Open": 2.32,
+        "High": 2.45,
+        "Low": 2.232,
+        "Close": 2.38,
+        "Volume": 451104.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2024-12-31",
+        "Open": 2.4,
+        "High": 2.4299,
+        "Low": 2.23,
+        "Close": 2.29,
+        "Volume": 517790.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-02",
+        "Open": 2.42,
+        "High": 2.68,
+        "Low": 2.33,
+        "Close": 2.48,
+        "Volume": 959612.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-03",
+        "Open": 2.51,
+        "High": 2.6,
+        "Low": 2.43,
+        "Close": 2.48,
+        "Volume": 370429.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-06",
+        "Open": 2.45,
+        "High": 2.55,
+        "Low": 2.305,
+        "Close": 2.32,
+        "Volume": 451361.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-07",
+        "Open": 2.32,
+        "High": 2.4694,
+        "Low": 2.23,
+        "Close": 2.34,
+        "Volume": 370566.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-08",
+        "Open": 2.34,
+        "High": 2.34,
+        "Low": 2.0701,
+        "Close": 2.11,
+        "Volume": 337702.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-10",
+        "Open": 2.1,
+        "High": 2.14,
+        "Low": 2.0,
+        "Close": 2.06,
+        "Volume": 242316.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-13",
+        "Open": 2.01,
+        "High": 2.17,
+        "Low": 1.96,
+        "Close": 2.09,
+        "Volume": 200576.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-14",
+        "Open": 2.09,
+        "High": 2.4,
+        "Low": 2.02,
+        "Close": 2.31,
+        "Volume": 811780.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-15",
+        "Open": 2.2,
+        "High": 2.2399,
+        "Low": 2.0546,
+        "Close": 2.16,
+        "Volume": 223454.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-16",
+        "Open": 2.19,
+        "High": 2.22,
+        "Low": 2.0603,
+        "Close": 2.15,
+        "Volume": 103817.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-17",
+        "Open": 2.13,
+        "High": 2.16,
+        "Low": 2.07,
+        "Close": 2.13,
+        "Volume": 124917.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-21",
+        "Open": 2.17,
+        "High": 2.17,
+        "Low": 2.0436,
+        "Close": 2.11,
+        "Volume": 197184.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-22",
+        "Open": 2.11,
+        "High": 2.11,
+        "Low": 2.01,
+        "Close": 2.01,
+        "Volume": 129113.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-23",
+        "Open": 2.01,
+        "High": 2.05,
+        "Low": 1.95,
+        "Close": 1.98,
+        "Volume": 144456.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-24",
+        "Open": 3.96,
+        "High": 4.07,
+        "Low": 2.78,
+        "Close": 3.1,
+        "Volume": 77204170.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-27",
+        "Open": 1.98,
+        "High": 2.1,
+        "Low": 1.68,
+        "Close": 2.05,
+        "Volume": 3732922.0,
+        "symbol": "ELAB"
+    },
+    {
+        "Date": "2025-01-28",
+        "Open": 2.0,
+        "High": 2.038,
+        "Low": 1.86,
+        "Close": 1.92,
+        "Volume": 729695.0,
+        "symbol": "ELAB"
+    }
+]
