@@ -2,11 +2,18 @@
     "Meta Data": {
         "1. Information": "Daily Prices (open, high, low, close) and Volumes",
         "2. Symbol": "SPY",
-        "3. Last Refreshed": "2025-01-31",
+        "3. Last Refreshed": "2025-02-03",
         "4. Output Size": "Full size",
         "5. Time Zone": "US/Eastern"
     },
     "Time Series (Daily)": {
+        "2025-02-03": {
+            "1. open": "592.6700",
+            "2. high": "600.2900",
+            "3. low": "590.4900",
+            "4. close": "597.7700",
+            "5. volume": "65857248"
+        },
         "2025-01-31": {
             "1. open": "607.5000",
             "2. high": "609.9600",
