@@ -25,7 +25,7 @@ Loser List: WOK, AVGX, ELAB, NRO
 
 
 Final Folder:
-to edit *****:Please see "Final Folder" for our project. Within this folder, you will find a notebook showing our data retrieval using API, the analysis of each stock, an analysis of all 8 stocks, an analysis of the top 4 stocks, and an analysis of the best stock to be invested in. Our approach and discussion of our analysis can be found in each notebook within the markdown cells. The website can be found in the "website code" folder with HTML. The data visualizations can be found in the images folder. You will also find the slide deck presentation. 
+Please see "Final Folder" for our project. The folder contains the website code, the slide deck presentation, our stock data, as well as our visualizations. The jupyter note books contain our code for our analysis as well as our discussion of results (written in markdowns). 
 
 
 to edit ******: Instructions for running the website code and navigating the website.
