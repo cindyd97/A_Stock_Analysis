@@ -28,4 +28,4 @@ Final Folder:
 Please see "Final Folder" for our project. The folder contains the website code, the slide deck presentation, our stock data, as well as our visualizations. The jupyter note books contain our code for our analysis as well as our discussion of results (written in markdowns). 
 
 
-to edit ******: Instructions for running the website code and navigating the website.
+Website Breakdown: Our website was coded in HTML with Bootstrap as the base of the framework. We have created a total of three main pages that consists of a home page, a Big Question page, and a visualizationg page. Our home page shows an introduction to our project. The Big question page presents the questions we are answering. And the visualization page consists of graphs/charts that we created. Each page follows a consistency layout and colors. At the top of each page, we included a navbar allowing quick access between the page. For our visualization, we included a drop down menu that allows you to click between which graphs you want to look at for each of out stocks.
