@@ -5,13 +5,13 @@ Stock analysis
 ### Group Members
 Marry Shintaku, Kirsten Formento, David Jian, Cindy Duong
 
-# Details of the Project:
+### Details of the Project:
 We are a group of data analysts seeking to understand stock price data by performing a fixed-window, technical analysis on a group of stocks. 
 
 Fixed-Window & Technical Analysis:
 We acknowledge that each company for each stock may be from different industries and/or run their operations uniquely. While we cannot compare each company by how they are operated, we can perform a technical analysis of the historical data and draw conclusions based on the stock data. Please note that our API data was pulled as of January 30, 2025. The time frame of our analysis will be between the last quarter of 2024 and the first month of 2025. We understand that our analysis of the data will be restricted to this time frame (fixed-window analysis) and that the stock performance may have changed between the time we pulled the data to when we present the information. 
 
-# Selecting 8 stocks:
+### Selecting 8 stocks:
 On January 30, 2025, we pulled a list of the stock market's top 20 gainers and the bottom 20 losers for that day. Each group member selected 1 gainer stock and 1 loser stock from that list and performed a technical comparison of their chosen stock.
 Gainer List: NVDA, YIBO, DWTX, AKRO
 Loser List: WOK, AVGX, ELAB, NRO
