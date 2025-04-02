@@ -1,6 +1,4 @@
-### Project title 
-Stock analysis
-
+### Stock analysis
 
 ### Group Members
 Marry Shintaku, Kirsten Formento, David Jian, Cindy Duong
@@ -42,7 +40,4 @@ Technical comparison: NVDA vs. WOK, YIBO vs. AVGX, DWTX vs. ELAB, AKRO vs. NRO
 Our website was coded in HTML with Bootstrap as the base of the framework. We have created a total of four main pages that consists of a home page, a Big Question page, a visualizationg page, and key insights. Our home page shows an introduction to our project. The Big question page presents the questions we are answering. And the visualization page contains a javascript powered visualization tool called plotly. Using the tool, we plotted the price trend of each of our stock starting from Q4 2024 to Jan 2025. This interactive tool allows users to hover over each candlestick point and see the open, high, low, and close price given for that date. And right between the x-axis and title of the graphs, there is a smaller graph that shows a simplified version of the price trend. Users can interactive with this bar to select the range they want to view at the top main graph. Plotly also provides many more features that includes but not limited to zoom or pan in the top left. The Key Insights page shows the stock on the left and then a beta graph on the right that shows a comparison of the stock to the market. Each page follows a consistency layout and colors. At the top of each page, we included a navbar allowing quick access between the page. Also in the navbar, we created a dropdown menu that lets you click through the different beta line graph for the different stocks
 
 ### Data Sources:
-https://www.alphavantage.co/
-
-### Legal and Ethical Considerations:
-We checked for copyright protections by considering whether our dataset includes information that could be considered original rather than fact. Stock data is considered fact and not opintion. The data is consistent accross all market platforms. We also considered whether the data is structured in a creative or different way. Stock data is presented similarly accross all platforms. We pulled our data from alphavantage for this project and our use of the data is not considered for commercial purposes. We carefully read the terms of use as well as the privacy policy and noted that we are within our rights to using the data.
+Alpha Vantage. (n.d.). Alpha Vantage API. https://www.alphavantage.co/
